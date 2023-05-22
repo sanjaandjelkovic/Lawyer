@@ -1,0 +1,14 @@
+.news-page-section .lead-section-title {
+  font-size: 3.6rem !important;
+  line-height: 4.6rem !important;
+}
+
+.news-single-content {
+  padding: 67px 0;
+}
+
+.news-single-content p {
+  margin-bottom: 3rem;
+}
+
+/*# sourceMappingURL=news-single.css.map */
