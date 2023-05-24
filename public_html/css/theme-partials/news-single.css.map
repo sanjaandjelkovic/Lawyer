@@ -1,9 +1,0 @@
-{
-	"version": 3,
-	"file": "news-single.css",
-	"sources": [
-		"../../scss/theme-partials/news-single.scss"
-	],
-	"names": [],
-	"mappings": "AACA,AAEQ,kBAFU,CAEV,mBAAmB,CAAA;EACf,SAAS,EAAE,iBAAiB;EAC5B,WAAW,EAAE,iBAAiB;CACjC;;AAQT,AAAA,oBAAoB,CAAA;EAChB,OAAO,EAAE,MAAM;CAKlB;;AAND,AAGI,oBAHgB,CAGhB,CAAC,CAAA;EACG,aAAa,EAAE,IAAI;CACtB"
-}
